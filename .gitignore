@@ -4,3 +4,8 @@
 
 # Vs code
 /.vscode/*
+
+# Virtualenv
+Lib/*
+Scripts/*
+*.cfg
